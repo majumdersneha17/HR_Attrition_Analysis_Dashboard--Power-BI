@@ -2,15 +2,51 @@
 
 This project presents an interactive and visually appealing HR Attrition Analytics Dashboard built in Power BI. The dashboard provides actionable insights into employee attrition trends, helping organizations identify and address the root causes of turnover.
 
-Features
-Key Metrics Overview:
+## Features
 
-Total Employees: 1,470
-Total Attrition Count: 237
-Attrition Rate: 16%
-Average Tenure: 7 years
-Average Employee Age: 37 years
-Job Satisfaction: 2.73/5
+### Key Metrics:
+- **Total Employees**: 1,470  
+- **Attrition Count**: 237  
+- **Attrition Rate**: 16%  
+- **Average Tenure**: 7 years  
+- **Average Age**: 37 years  
+
+---
+
+### Job Satisfaction Analysis:
+- A gauge visualization showing the average job satisfaction score (**2.73 out of 5**).
+
+---
+
+### Age-wise Attrition:
+- Bar and line chart displaying attrition counts and rates across age groups.
+
+---
+
+### Gender-wise Attrition:
+- Donut chart showing attrition distribution by gender:  
+  - **Male**: 63.29%  
+  - **Female**: 36.71%  
+
+---
+
+### Department-wise Attrition:
+- Heatmap visualizing department-specific attrition rates:  
+  - **Sales Representatives**: 40%  
+  - **Laboratory Technicians**: 24%  
+
+---
+
+### Root Cause Analysis (RCA):
+- Sankey diagram identifying factors such as job role, department, and education field contributing to attrition.
+
+---
+
+### Interactive Filters:
+- Dynamic slicers for filtering by:
+  - Department  
+  - Job Role  
+  - Education Field  
 
 Key Insights
 
@@ -43,4 +79,6 @@ Key Insights
 - Identifying and addressing root causes in these areas could lead to a significant reduction in overall attrition.
 
 
-<img width="598" alt="image" src="https://github.com/user-attachments/assets/76421c47-9f9d-412f-84fb-e4c94a6599a9" />
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/a3623d5b-12a8-472a-abca-97ccd318fa03" />
+
+
