@@ -43,11 +43,9 @@ This project presents an interactive and visually appealing HR Attrition Analyti
 ---
 
 ### Interactive Filters:
-- Dynamic slicers for filtering by:
+- Dynamic slicer for filtering by:
   - Department  
-  - Job Role  
-  - Education Field  
-
+  
 Key Insights
 
 ### Total Attrition Count
