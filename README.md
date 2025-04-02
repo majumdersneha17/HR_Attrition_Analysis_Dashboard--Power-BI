@@ -38,7 +38,7 @@ This project presents an interactive and visually appealing HR Attrition Analyti
 ---
 
 ### Root Cause Analysis (RCA):
-- Sankey diagram identifying factors such as job role, department, and education field contributing to attrition.
+- Decomposition Tree diagram identifying factors such as job role, department, and education field contributing to attrition.
 
 ---
 
