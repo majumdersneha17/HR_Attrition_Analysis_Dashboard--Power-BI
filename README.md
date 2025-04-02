@@ -46,7 +46,7 @@ This project presents an interactive and visually appealing HR Attrition Analyti
 - Dynamic slicer for filtering by:
   - Department  
   
-Key Insights
+## Key Insights
 
 ### Total Attrition Count
 - Out of 1,470 employees, **237 have left the company**, resulting in an **attrition rate of 16%**.
